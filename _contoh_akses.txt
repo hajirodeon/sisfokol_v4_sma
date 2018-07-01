@@ -1,0 +1,55 @@
+AKSES
+=====
+
+
+
+admin
+	user : admin
+	pass : admin
+
+
+
+user akses lain
+	user : 120001
+	pass : 120001
+
+
+user akses siswa
+	user : 810001
+	pass : 810001
+
+
+
+
+cobalah untuk
+	-> tapel : 2010/2011
+	-> program : -
+	-> kelas : x
+
+
+
+konfigurasi, bisa cek ke file :
+	/inc/config.php
+
+
+
+
+PSB
+====
+
+admin
+	user/pass : admin
+
+
+
+bendahara
+	user/pass : bendahara
+
+
+
+pewawancara
+	user/pass : wawancara
+
+
+
+calon, login sesuai user/pass yang diperoleh saat pendaftaran.

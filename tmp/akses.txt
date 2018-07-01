@@ -1,0 +1,48 @@
+DAFTAR AKSES
+================
+
+
+akses admin
+	user/pass : admin
+
+
+
+
+akses siswa
+	user/pass : 810001
+
+
+
+akses kepala sekolah
+	user/pass : 1200010
+
+
+
+
+akses lain
+	user/pass : 120001
+
+
+
+
+
+
+PSB
+====
+
+admin
+	user/pass : admin
+
+
+
+bendahara
+	user/pass : bendahara
+
+
+
+pewawancara
+	user/pass : wawancara
+
+
+
+calon, login sesuai user/pass yang diperoleh saat pendaftaran.
